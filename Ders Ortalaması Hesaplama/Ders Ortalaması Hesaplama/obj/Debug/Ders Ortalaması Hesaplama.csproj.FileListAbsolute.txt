@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\Ders Ortalaması Hesaplama\Ders Ortalaması Hesaplama\bin\Debug\Ders Ortalaması Hesaplama.exe.config
+C:\Users\user\Desktop\10-M\Ders Ortalaması Hesaplama\Ders Ortalaması Hesaplama\bin\Debug\Ders Ortalaması Hesaplama.exe
+C:\Users\user\Desktop\10-M\Ders Ortalaması Hesaplama\Ders Ortalaması Hesaplama\bin\Debug\Ders Ortalaması Hesaplama.pdb
+C:\Users\user\Desktop\10-M\Ders Ortalaması Hesaplama\Ders Ortalaması Hesaplama\obj\Debug\Ders Ortalaması Hesaplama.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\Ders Ortalaması Hesaplama\Ders Ortalaması Hesaplama\obj\Debug\Ders_Ortalaması_Hesaplama.Form1.resources
+C:\Users\user\Desktop\10-M\Ders Ortalaması Hesaplama\Ders Ortalaması Hesaplama\obj\Debug\Ders_Ortalaması_Hesaplama.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Ders Ortalaması Hesaplama\Ders Ortalaması Hesaplama\obj\Debug\Ders Ortalaması Hesaplama.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\Ders Ortalaması Hesaplama\Ders Ortalaması Hesaplama\obj\Debug\Ders Ortalaması Hesaplama.exe
+C:\Users\user\Desktop\10-M\Ders Ortalaması Hesaplama\Ders Ortalaması Hesaplama\obj\Debug\Ders Ortalaması Hesaplama.pdb
